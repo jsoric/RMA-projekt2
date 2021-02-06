@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Music RMA</string>
+    <string-array name="genres">
+        <item>Pop</item>
+        <item>Electronic</item>
+        <item>Rock</item>
+        <item>Soul</item>
+        <item>Reggae</item>
+        <item>Punk</item>
+        <item>Latin</item>
+        <item>K-pop</item>
+        <item>Hip-Hop</item>
+        <item>Country</item>
+    </string-array>
+    <string name="imageLabel">Song icon</string>
+    <string name="saveSong">Save song</string>
+    <string name="updateSong">Update song</string>
+    <string name="deleteSong">Delete song</string>
+    <string name="labelBack">Back</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="titleInputTitle">Title</string>
+    <string name="performerInputTitle">Performer</string>
+    <string name="albumInputTitle">Album</string>
+    <string name="yearOfIssueInputTitle">Year of issue</string>
+</resources>
